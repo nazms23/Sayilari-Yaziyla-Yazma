@@ -1,0 +1,28 @@
+C:\Users\movel\source\repos\sayilariyaziylayazma\sayilariyaziylayazma\bin\Debug\netcoreapp3.1\sayilariyaziylayazma.exe
+C:\Users\movel\source\repos\sayilariyaziylayazma\sayilariyaziylayazma\bin\Debug\netcoreapp3.1\sayilariyaziylayazma.deps.json
+C:\Users\movel\source\repos\sayilariyaziylayazma\sayilariyaziylayazma\bin\Debug\netcoreapp3.1\sayilariyaziylayazma.runtimeconfig.json
+C:\Users\movel\source\repos\sayilariyaziylayazma\sayilariyaziylayazma\bin\Debug\netcoreapp3.1\sayilariyaziylayazma.runtimeconfig.dev.json
+C:\Users\movel\source\repos\sayilariyaziylayazma\sayilariyaziylayazma\bin\Debug\netcoreapp3.1\sayilariyaziylayazma.dll
+C:\Users\movel\source\repos\sayilariyaziylayazma\sayilariyaziylayazma\bin\Debug\netcoreapp3.1\sayilariyaziylayazma.pdb
+C:\Users\movel\source\repos\sayilariyaziylayazma\sayilariyaziylayazma\obj\Debug\netcoreapp3.1\sayilariyaziylayazma.csproj.AssemblyReference.cache
+C:\Users\movel\source\repos\sayilariyaziylayazma\sayilariyaziylayazma\obj\Debug\netcoreapp3.1\sayilariyaziylayazma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\movel\source\repos\sayilariyaziylayazma\sayilariyaziylayazma\obj\Debug\netcoreapp3.1\sayilariyaziylayazma.AssemblyInfoInputs.cache
+C:\Users\movel\source\repos\sayilariyaziylayazma\sayilariyaziylayazma\obj\Debug\netcoreapp3.1\sayilariyaziylayazma.AssemblyInfo.cs
+C:\Users\movel\source\repos\sayilariyaziylayazma\sayilariyaziylayazma\obj\Debug\netcoreapp3.1\sayilariyaziylayazma.csproj.CoreCompileInputs.cache
+C:\Users\movel\source\repos\sayilariyaziylayazma\sayilariyaziylayazma\obj\Debug\netcoreapp3.1\sayilariyaziylayazma.dll
+C:\Users\movel\source\repos\sayilariyaziylayazma\sayilariyaziylayazma\obj\Debug\netcoreapp3.1\sayilariyaziylayazma.pdb
+C:\Users\movel\source\repos\sayilariyaziylayazma\sayilariyaziylayazma\obj\Debug\netcoreapp3.1\sayilariyaziylayazma.genruntimeconfig.cache
+E:\Programlar\sayıları yazıyla yazma programı\sayilariyaziylayazma\sayilariyaziylayazma\bin\Debug\netcoreapp3.1\sayilariyaziylayazma.exe
+E:\Programlar\sayıları yazıyla yazma programı\sayilariyaziylayazma\sayilariyaziylayazma\bin\Debug\netcoreapp3.1\sayilariyaziylayazma.deps.json
+E:\Programlar\sayıları yazıyla yazma programı\sayilariyaziylayazma\sayilariyaziylayazma\bin\Debug\netcoreapp3.1\sayilariyaziylayazma.runtimeconfig.json
+E:\Programlar\sayıları yazıyla yazma programı\sayilariyaziylayazma\sayilariyaziylayazma\bin\Debug\netcoreapp3.1\sayilariyaziylayazma.runtimeconfig.dev.json
+E:\Programlar\sayıları yazıyla yazma programı\sayilariyaziylayazma\sayilariyaziylayazma\bin\Debug\netcoreapp3.1\sayilariyaziylayazma.dll
+E:\Programlar\sayıları yazıyla yazma programı\sayilariyaziylayazma\sayilariyaziylayazma\bin\Debug\netcoreapp3.1\sayilariyaziylayazma.pdb
+E:\Programlar\sayıları yazıyla yazma programı\sayilariyaziylayazma\sayilariyaziylayazma\obj\Debug\netcoreapp3.1\sayilariyaziylayazma.csproj.AssemblyReference.cache
+E:\Programlar\sayıları yazıyla yazma programı\sayilariyaziylayazma\sayilariyaziylayazma\obj\Debug\netcoreapp3.1\sayilariyaziylayazma.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programlar\sayıları yazıyla yazma programı\sayilariyaziylayazma\sayilariyaziylayazma\obj\Debug\netcoreapp3.1\sayilariyaziylayazma.AssemblyInfoInputs.cache
+E:\Programlar\sayıları yazıyla yazma programı\sayilariyaziylayazma\sayilariyaziylayazma\obj\Debug\netcoreapp3.1\sayilariyaziylayazma.AssemblyInfo.cs
+E:\Programlar\sayıları yazıyla yazma programı\sayilariyaziylayazma\sayilariyaziylayazma\obj\Debug\netcoreapp3.1\sayilariyaziylayazma.csproj.CoreCompileInputs.cache
+E:\Programlar\sayıları yazıyla yazma programı\sayilariyaziylayazma\sayilariyaziylayazma\obj\Debug\netcoreapp3.1\sayilariyaziylayazma.dll
+E:\Programlar\sayıları yazıyla yazma programı\sayilariyaziylayazma\sayilariyaziylayazma\obj\Debug\netcoreapp3.1\sayilariyaziylayazma.pdb
+E:\Programlar\sayıları yazıyla yazma programı\sayilariyaziylayazma\sayilariyaziylayazma\obj\Debug\netcoreapp3.1\sayilariyaziylayazma.genruntimeconfig.cache
